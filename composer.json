@@ -1,0 +1,17 @@
+{
+    "name": "laravel/toos",
+    "description": "laravel test composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangch",
+            "email": "wangchunhui@51-dg.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Common\\": "src/Library"
+        }
+    },
+    "require": {}
+}
